@@ -9,6 +9,8 @@ public class Caso28 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
+		 * 
 		Un amigo me pide dinero y me dice que me lo va a devolver en un año a plazos.
 		Pedimos la cantidad de dinero y mostramos la cuota de cada mes. Por ejemplo, nos pide 12000€, debemos mostrar: 
 		Enero: 1000 

@@ -11,6 +11,9 @@ public class Caso21 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
+		 * 
+		
 		Escribir un programa que pida un número entero que representa un día de la semana
 		y escriba un mensaje por pantalla dependiendo del valor del número:  
 		Debe mostrar si es día laborable o fin de semana.
@@ -19,6 +22,7 @@ public class Caso21 {
 		Introduce un 2, el resultado es: 
 		“Es un día laborable” 
 		“Es martes” 
+		
 		 */
 		
 		int num1;

@@ -8,6 +8,8 @@ public class Caso13 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
+		 * 
 		 Realizar un programa en java que realice las siguientes acciones:  
 		Pida el número de alumnos de una clase, debe comprobarse que la cifra está entre 5 (mínimo) y 30  
 		(máximo).  

@@ -10,6 +10,8 @@ public class Caso18 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
+		 * 
 		Realizar un programa que lea 30 notas de examen, podrán usarse decimales.
 		Se debe comprobar que cada una de ellas está entre 0 y 10,
 		si alguna no lo cumple se seguirá pidiendo hasta que sea correcta.

@@ -8,6 +8,8 @@ public class Caso22 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
+		 * 
 		Escribir un programa que pida el nombre de 3 productos y sus precios. 
 		Pedirá la cantidad de dinero que tiene el usuario. 
 		Mostrará si el usuario puede comprar los tres productos con el dinero que tiene. 

@@ -8,6 +8,8 @@ public class Caso19 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
+		 * 
 		Realizar un programa que pida dos números enteros positivos,
 		si los números introducidos no son positivos se seguirán pidiendo hasta que lo sean.  
 		Calcular su producto mediante sumas e informar por pantalla del resultado.  

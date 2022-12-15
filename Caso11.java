@@ -9,6 +9,7 @@ public class Caso11 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
 		 Realizar un programa que lea una secuencia de números,
 		 se terminará de recoger números cuando el usuario introduzca un 0. 
 		  Mostrar por pantalla su suma, su producto y su media.  

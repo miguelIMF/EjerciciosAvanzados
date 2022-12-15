@@ -7,6 +7,8 @@ public class Caso15 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
+		 * 
 		Escribir un programa en java que lea temperaturas en grados 
 
 		Celsius y las transforme a la escala Fahrenheit.  

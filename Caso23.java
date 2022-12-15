@@ -9,6 +9,8 @@ public class Caso23 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
+		 * 
 		Escribir un programa que pida una fila y una columna e informe si las coordenadas contienen “X” o no. 
 		Por ejemplo, se da la fila 1 y la columna 2. El resultado es “No hay X” 
 		Por ejemplo, se da la fila 2 y la columna 2. El resultado es “Hay X” 

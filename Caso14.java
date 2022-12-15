@@ -8,6 +8,8 @@ public class Caso14 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
+		 * 
 		Realizar un programa en java que calcule e imprima la suma de los múltiplos
 		de 2 comprendidos entre dos valores a y b que pedirá por pantalla.  
 		No se debe permitir que se introduzcan valores negativos para a y b.

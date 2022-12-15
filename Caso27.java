@@ -8,6 +8,8 @@ public class Caso27 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
+		 * 
 		Una pareja tiene 3 hijos, se piden sus nombres y edades por orden de mayor a menor. Calcula la edad media. 
 		Calcula la diferencia de edad entre herman@s. Por ejemplo: 
 		Isabela: 20 

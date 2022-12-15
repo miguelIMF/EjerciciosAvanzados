@@ -7,6 +7,8 @@ public class Caso26 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
+		 * 
 		El programa pide la edad al usuario, debe ser superior a 10 e inferior a 100. En caso contrario sale un error. 
 		Muestra el año de nacimiento (de manera simple) del usuario en función de su edad. 
 		Por ejemplo, si tiene 10 años y estamos en 2022, su año de nacimiento podría ser 2012. 

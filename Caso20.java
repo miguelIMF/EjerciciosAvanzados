@@ -8,6 +8,8 @@ public class Caso20 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
+		
 		Realizar un programa que pida un número entero y calcule su factorial. Si el número introducido es negativo se seguirá pidiendo hasta que sea positivo.  
 		Una vez calculado se informará del resultado con el siguiente formato: “El factorial de <número> es <factorial>” 
 		Para todo número natural 

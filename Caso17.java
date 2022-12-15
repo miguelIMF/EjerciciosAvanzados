@@ -5,6 +5,8 @@ public class Caso17 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
+		 * 
 		Realizar un programa que muestre por pantalla la secuencia:  
 		1 3 5 7 9 11 13 15 17 19  
 		Primero de la secuencia Mi número de la suerte  

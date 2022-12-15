@@ -9,6 +9,8 @@ public class Caso24 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
+		 * 
 		Se pide al usuario su cantidad de sueldo bruto anual. 
 		Se informa de la cantidad a cobrar al mes si tiene 12 pagas. Por ejemplo, para un sueldo de 12000€ debe salir: 		
 		Enero: 1000 

@@ -9,7 +9,8 @@ public class Caso12 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
-		 
+		 * @author Miguel Paniagua
+		 * 
 		Realizar un programa en Java que lea una secuencia de números y determine cual
 		es el mayor de ellos y el número de veces que aparece.
 		Cada vez que se introduce un número se debe preguntar “Se desea continuar (s /n)”.
