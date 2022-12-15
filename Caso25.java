@@ -9,6 +9,9 @@ public class Caso25 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
+		 * @author Miguel Paniagua
+		 * 
+		Escribir
 		Se pide al usuario un día (1-7) y un turno (mañana o tarde). 
 		El programa dice a quién le toca el turno ese día: 
 		 */
